@@ -1,4 +1,8 @@
 # arduino-four-traffic-lights
 
-Bem vindo ao meu Github!!
-
+---------------------------------------------------------------------
++                                                                   +
++ Welcome my Github! This project with arduino and automation with  +
++ traffic lights or also making smart toys.                         +
++                                                                   +
+---------------------------------------------------------------------

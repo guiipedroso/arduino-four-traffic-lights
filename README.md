@@ -1,3 +1,10 @@
-# arduino-four-traffic-lights
+#  Four Smart Traffic Lights - Arduino🚦
 
-Welcome my Github! This project with arduino and automation with traffic lights or also making smart toys.
+Hello Maker, welcome my Github! This project with arduino and automation with traffic lights or also making smart toys.
+
+For the project, it contains:
+
+- Source code
+- Circuit
+- Materials
+
